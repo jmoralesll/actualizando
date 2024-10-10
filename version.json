@@ -1,6 +1,6 @@
 {
-    "version_code": 3,
-    "version_name": "3.0",
+    "version_code": 2,
+    "version_name": "2.8",
     "download_url": "http://192.168.101.12:3000/downloads/update.apk",
     "changelog": "- Corrección de errores\n- Mejoras de rendimiento"
   }
