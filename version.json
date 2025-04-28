@@ -1,6 +1,6 @@
 {
-    "version_code": 2,
-    "version_name": "3.7",
-    "download_url": "192.168.1.10:3000/downloads/update.apk",
+    "version_code": 7,
+    "version_name": "4.3",
+    "download_url": "https://ocwxcwgqutborgz6.public.blob.vercel-storage.com/ConectaHogarTv_v4.3-bHeAjkk3Yq59Iva9VHvwzatgm3pLz9.apk",
     "changelog": "- Corrección de errores\n- Mejoras de rendimiento"
   }
