@@ -1,10 +1,11 @@
 {
-    "version_code": 14,
-    "version_name": "6.1",
+    "version_code": 15,
+    "version_name": "6.2",
     "download_url": "https://ocwxcwgqutborgz6.public.blob.vercel-storage.com/ConectaHogar_vc14_v_6.1.apk",
     "changelog": "- Corrección de errores\n- Mejoras de rendimiento",
     "mandatory": false
   }
+
 
 
 
