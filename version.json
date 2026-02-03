@@ -1,8 +1,9 @@
 {
-    "version_code": 11,
-    "version_name": "4.6",
+    "version_code": 14,
+    "version_name": "6.1",
     "download_url": "https://ocwxcwgqutborgz6.public.blob.vercel-storage.com/ConectaHogarTv_vc11_v4.6-Hk8L71QDJ35PHiGUiiMYxaxXoDmOix.apk",
     "changelog": "- Corrección de errores\n- Mejoras de rendimiento",
-    "mandatory": true
+    "mandatory": false
   }
+
 
